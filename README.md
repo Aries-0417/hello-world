@@ -1,2 +1,3 @@
 # hello-world
-first test
+i like rode ;
+and hello world!
